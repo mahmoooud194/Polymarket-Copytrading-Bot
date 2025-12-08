@@ -40,6 +40,7 @@ Feel free to reach out for implementation assistance or integration support.
 - [Contributing](#contributing)
 - [License](#license)
 
+<a id="#overview"></a>
 ## Overview
 
 The Polymarket Copy Trading Bot is a production-ready TypeScript application that automatically replicates trades from successful Polymarket traders to your wallet. Built with enterprise-grade code quality standards, the bot provides:
