@@ -7,6 +7,25 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.7-blue.svg)](https://www.typescriptlang.org/)
 [![Code Quality](https://img.shields.io/badge/Code%20Quality-Professional-green.svg)](docs/CODE_QUALITY_IMPROVEMENTS.md)
 
+## Contact 
+
+| Platform | Link |
+|----------|------|
+| 📱 Telegram | [t.me/novustch](https://t.me/novustch) |
+| 📲 WhatsApp | [wa.me/14105015750](https://wa.me/14105015750) |
+| 💬 Discord | [discordapp.com/users/985432160498491473](https://discordapp.com/users/985432160498491473)
+
+<div align="left">
+    <a href="https://t.me/novustch" target="_blank"><img alt="Telegram"
+        src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+    <a href="https://wa.me/14105015750" target="_blank"><img alt="WhatsApp"
+        src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+    <a href="https://discordapp.com/users/985432160498491473" target="_blank"><img alt="Discord"
+        src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+</div>
+
+Feel free to reach out for implementation assistance or integration support.
+
 ## Table of Contents
 
 - [Overview](#overview)
@@ -50,6 +69,7 @@
 - [Acknowledgments](#acknowledgments)
 - [Support](#support)
 
+<a id="#overview"></a>
 ## Overview
 
 The Polymarket Copy Trading Bot is a production-ready TypeScript application that automatically replicates trades from successful Polymarket traders to your wallet. Built with enterprise-grade code quality standards, the bot provides:
@@ -70,6 +90,7 @@ The Polymarket Copy Trading Bot is a production-ready TypeScript application tha
 4. **Order Execution** - Places matching orders on Polymarket using your wallet via CLOB API
 5. **Performance Tracking** - Maintains comprehensive trade history and position data in MongoDB
 
+<a id="#key-features"></a>
 ## Key Features
 
 ### Core Functionality
@@ -99,6 +120,7 @@ The bot currently uses the **Polymarket Data API** to monitor trader activity an
 
 <img width="680" height="313" alt="Monitoring Architecture" src="https://github.com/user-attachments/assets/d868f9f2-a1dd-4bfe-a76e-d8cbdfbd8497" />
 
+<a id="#architecture"></a>
 ## Architecture
 
 ### System Components
@@ -133,6 +155,7 @@ The bot currently uses the **Polymarket Data API** to monitor trader activity an
 - **APIs**: Polymarket CLOB Client, Polymarket Data API
 - **Infrastructure**: Docker support for containerized deployment
 
+<a id="#quick-start"></a>
 ## Quick Start
 
 ### Prerequisites
@@ -177,6 +200,7 @@ npm start
 
 **📖 For detailed setup instructions, see [Getting Started Guide](./docs/GETTING_STARTED.md)**
 
+<a id="#configuration"></a>
 ## Configuration
 
 ### Environment Variables
@@ -226,6 +250,7 @@ To identify traders worth copying:
 
 **📖 For complete configuration guide, see [Quick Start Guide](./docs/QUICK_START.md)**
 
+<a id="#deployment"></a>
 ## Deployment
 
 ### Docker Deployment (Recommended)
@@ -278,6 +303,7 @@ pm2 logs polymarket-bot
 - Regular database backups
 - Keep dependencies updated
 
+<a id="#documentation"></a>
 ## Documentation
 
 ### Getting Started
@@ -302,6 +328,7 @@ pm2 logs polymarket-bot
 
 - **[📝 Code Quality Improvements](./docs/CODE_QUALITY_IMPROVEMENTS.md)** - Technical documentation on code quality standards
 
+<a id="#safety--risk-management"></a>
 ## Safety & Risk Management
 
 ### ⚠️ Important Disclaimers
@@ -333,6 +360,7 @@ pm2 logs polymarket-bot
 - **Error Handling** - Comprehensive error handling and recovery
 - **Health Checks** - Configuration validation before startup
 
+<a id="#troubleshooting"></a>
 ## Troubleshooting
 
 ### Common Issues
@@ -403,6 +431,7 @@ npm run check-stats
 
 **📖 For detailed troubleshooting, see [Quick Start Guide](./docs/QUICK_START.md)**
 
+<a id="#contributing"></a>
 ## Contributing
 
 We welcome contributions! Please follow these guidelines:
@@ -425,6 +454,8 @@ We welcome contributions! Please follow these guidelines:
 - Update relevant documentation
 - Test thoroughly before submitting
 
+
+<a id="#license"></a>
 ## License
 
 This project is licensed under the ISC License - see the [LICENSE](LICENSE) file for details.
