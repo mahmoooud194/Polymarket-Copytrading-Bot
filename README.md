@@ -10,16 +10,45 @@
 ## Table of Contents
 
 - [Overview](#overview)
+  - [How It Works](#how-it-works)
 - [Key Features](#key-features)
+  - [Core Functionality](#core-functionality)
+  - [Technical Features](#technical-features)
+  - [Monitoring Method](#monitoring-method)
 - [Architecture](#architecture)
+  - [System Components](#system-components)
+  - [Technology Stack](#technology-stack)
 - [Quick Start](#quick-start)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [First-Time Setup](#first-time-setup)
 - [Configuration](#configuration)
+  - [Environment Variables](#environment-variables)
+  - [Copy Strategy Configuration](#copy-strategy-configuration)
+  - [Finding Traders](#finding-traders)
 - [Deployment](#deployment)
+  - [Docker Deployment (Recommended)](#docker-deployment-recommended)
+  - [Manual Deployment](#manual-deployment)
+  - [Production Considerations](#production-considerations)
 - [Documentation](#documentation)
+  - [Getting Started](#getting-started)
+  - [Advanced Guides](#advanced-guides)
+  - [Testing & Analysis](#testing--analysis)
+  - [Development](#development)
 - [Safety & Risk Management](#safety--risk-management)
+  - [Important Disclaimers](#important-disclaimers)
+  - [Risk Management Best Practices](#risk-management-best-practices)
+  - [Safety Features](#safety-features)
 - [Troubleshooting](#troubleshooting)
+  - [Common Issues](#common-issues)
+  - [Diagnostic Commands](#diagnostic-commands)
 - [Contributing](#contributing)
+  - [Development Guidelines](#development-guidelines)
+- [Advanced Version](#advanced-version)
+- [Trading Tool](#trading-tool)
 - [License](#license)
+- [Acknowledgments](#acknowledgments)
+- [Support](#support)
 
 ## Overview
 
@@ -405,6 +434,40 @@ This project is licensed under the ISC License - see the [LICENSE](LICENSE) file
 - **[Polymarket CLOB Client](https://github.com/Polymarket/clob-client)** - Official Polymarket CLOB API client
 - **[Predictfolio](https://predictfolio.com)** - Trader analytics and performance metrics
 - **Polygon Network** - Layer 2 blockchain infrastructure
+
+## Advanced Version
+
+**🚀 Version 2 Available:** An advanced version with **RTDS (Real-Time Data Stream)** monitoring is now available as a private repository.
+
+Version 2 features the fastest trade detection method with near-instantaneous trade replication, lower latency, and reduced API load. Copy trading works excellently in the advanced version.
+
+<img width="680" height="313" alt="Monitoring Architecture" src="https://github.com/user-attachments/assets/d868f9f2-a1dd-4bfe-a76e-d8cbdfbd8497" />
+
+### Key Advantages of Version 2
+
+- **Real-Time Data Stream (RTDS)** - Instant trade detection without polling delays
+- **Lower Latency** - Near-instantaneous trade replication for optimal entry prices
+- **Reduced API Load** - More efficient API usage compared to polling methods
+- **Enhanced Performance** - Superior copy trading execution with minimal delay
+- **Scalability** - Better handling of multiple traders and high-frequency trading
+
+For access to the advanced version, please contact us through the [Support](#support) channels.
+
+## Trading Tool
+
+I've also developed a trading bot for Polymarket built with **Rust**, providing high-performance trading capabilities with low-level system control.
+
+<img width="1917" height="942" alt="Rust Trading Bot" src="https://github.com/user-attachments/assets/08a5c962-7f8b-4097-98b6-7a457daa37c9" />
+
+**Video Demo:** [Watch on YouTube](https://youtu.be/X5l8x4Ae2QQ)
+
+### Rust Trading Bot Features
+
+- **High Performance** - Built with Rust for maximum speed and efficiency
+- **Low Latency** - Optimized for minimal execution delay
+- **System-Level Control** - Direct system access for advanced trading strategies
+- **Memory Safety** - Rust's memory safety guarantees without garbage collection overhead
+- **Production Ready** - Battle-tested for reliable trading operations
 
 ## Support
 
