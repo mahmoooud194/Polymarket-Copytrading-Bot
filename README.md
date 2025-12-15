@@ -504,7 +504,7 @@ I've also developed a trading bot for Polymarket built with **Rust**, providing 
 
 For questions, issues, or support:
 
-- **Telegram**: [@Novus-Tech-LLC](https://t.me/novustch)
+- **Telegram**: [Novus Tech](https://t.me/novustch)
 - **Issues**: [GitHub Issues](https://github.com/Novus-Tech-LLC/Polymarket-Copytrading-Bot/issues)
 - **Documentation**: See [Documentation](#documentation) section above
 
